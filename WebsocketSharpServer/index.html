@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Chat</title>
+    <h1>Chat App using websocket communication</h1>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <script src="./js/myscripts.js"></script>
+   
+    
+</head>
+<body>
+    <b id="usernameLabel">User: </b><input type="text" name="Name:" id="username">
+    <input type="button" value="Connect" id="registButton" onclick="userRegist()">
+    <input type="button" value="Disconnect" id="logoutButton" onclick="disconnect()" style="display:none;">
+    <br>
+    <div id="show_username" ></div>
+    
+    <hr>
+
+    <p id="chat_row"> </p>
+    
+    <div class="footer">
+        <div class="footer_left">
+            <input type="text" required id="textToSend" placeholder="Insert some text...">
+        </div>
+        <div class="footer_rightcorner">
+            <input type="button" value="Send Message" id="sendButton" onclick="sendFunc()">
+        </div>
+    </div>
+
+    
+</body>
+</html>
