@@ -1,0 +1,68 @@
+﻿10/18/2018 3:16:50 PM : user1 :> Has connected!
+10/18/2018 3:16:55 PM : user1 :> Has disconnected!
+10/18/2018 3:20:24 PM : abel :> Has connected!
+10/18/2018 3:20:27 PM : abel :> asd
+10/18/2018 3:20:29 PM : abel :> Has disconnected!
+10/18/2018 3:20:34 PM : Guest2265 :> Has connected!
+10/18/2018 3:20:36 PM : Guest2265 :> asdasd
+10/18/2018 3:20:37 PM : Guest2265 :> asdasd
+10/18/2018 3:20:39 PM : Guest2265 :> Has disconnected!
+10/18/2018 3:20:44 PM : abel :> Has connected!
+10/18/2018 3:20:51 PM : abel :> etao
+10/18/2018 3:20:52 PM : abel :> Has disconnected!
+10/18/2018 3:20:55 PM : Guest2265 :> Has connected!
+10/18/2018 3:21:00 PM : Guest2265 :> Has disconnected!
+10/18/2018 3:29:21 PM : Guest9377 :> Has connected!
+10/18/2018 3:29:23 PM : Guest9377 :> bnm
+10/18/2018 3:30:24 PM : Guest9377 :> Has disconnected!
+10/18/2018 3:34:46 PM : Guest9314 :> Has connected!
+10/18/2018 3:34:54 PM : Guest9314 :> Has disconnected!
+10/18/2018 3:37:53 PM : Guest6604 :> Has connected!
+10/18/2018 3:37:56 PM : Guest6604 :> Has disconnected!
+10/18/2018 3:41:57 PM : USER1 :> Has connected!
+10/18/2018 3:42:22 PM : Guest7885 :> Has connected!
+10/18/2018 3:42:44 PM : Guest7885 :> ola
+10/18/2018 3:42:48 PM : USER1 :> ola
+10/18/2018 3:43:48 PM : USER1 :> Has disconnected!
+10/18/2018 3:44:36 PM : Guest4001 :> Has connected!
+10/18/2018 3:44:37 PM : Guest4001 :> Has disconnected!
+10/18/2018 3:44:38 PM : Guest4492 :> Has connected!
+10/18/2018 3:44:39 PM : Guest4492 :> Has disconnected!
+10/18/2018 3:44:40 PM : Guest3555 :> Has connected!
+10/18/2018 3:44:40 PM : Guest3555 :> Has disconnected!
+10/18/2018 3:44:45 PM : Guest2279 :> Has connected!
+10/18/2018 3:44:47 PM : Guest2279 :> jhfgh
+10/18/2018 3:44:59 PM : Guest2279 :> Has disconnected!
+10/18/2018 3:46:58 PM : asdasd :> Has connected!
+10/18/2018 3:47:00 PM : asdasd :> asdasd
+10/18/2018 3:47:01 PM : asdasd :> Has disconnected!
+10/18/2018 3:49:04 PM : Guest4399 :> Has connected!
+10/18/2018 3:49:07 PM : Guest4399 :> Has disconnected!
+10/18/2018 3:50:25 PM : Guest3364 :> Has connected!
+10/18/2018 3:50:26 PM : Guest3364 :> asdasd
+10/18/2018 3:50:27 PM : Guest3364 :> Has disconnected!
+10/18/2018 4:32:08 PM : Guest2043 :> Has connected!
+10/18/2018 4:32:09 PM : Guest2043 :> Has disconnected!
+10/18/2018 4:32:12 PM : carlos :> Has connected!
+10/18/2018 4:32:14 PM : carlos :> Has disconnected!
+10/18/2018 4:56:58 PM : jonathan :> Has connected!
+10/18/2018 4:57:03 PM : jonathan :> alguém?
+10/18/2018 4:57:17 PM : petra :> Has connected!
+10/18/2018 4:58:09 PM : jonathan :> Has connected!
+10/18/2018 4:58:14 PM : jonathan :> alguém?
+10/18/2018 4:58:19 PM : petra :> Has connected!
+10/18/2018 4:58:23 PM : petra :> ola
+10/18/2018 4:58:35 PM : jonathan :> td bemd11dsa
+10/18/2018 4:58:38 PM : petra :> s
+10/18/2018 4:58:41 PM : jonathan :> 1
+10/18/2018 4:58:42 PM : jonathan :> 2
+10/18/2018 4:58:43 PM : jonathan :> 3
+10/18/2018 4:58:47 PM : petra :> 42342
+10/18/2018 4:58:49 PM : petra :> 123123123
+10/18/2018 4:59:45 PM : jonathan :> Has disconnected!
+10/18/2018 4:59:45 PM : petra :> Has disconnected!
+10/18/2018 5:10:44 PM : Guest8731 :> Has connected!
+10/18/2018 5:12:14 PM : Guest8731 :> Has disconnected!
+10/18/2018 5:15:57 PM : Guest8187 :> Has connected!
+10/18/2018 5:15:59 PM : Guest8187 :> sdfsdf
+10/18/2018 5:17:08 PM : Guest8034 :> Has connected!
